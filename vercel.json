@@ -4,8 +4,6 @@
   ],
   "routes": [
     { "src": "/(.*)", "dest": "src/index.html" }
-  ],
-  "rewrites": [
-    { "source": "/css/(.*)", "destination": "/src/css/$1" }
   ]
+  
 }
