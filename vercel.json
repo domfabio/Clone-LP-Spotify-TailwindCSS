@@ -3,7 +3,10 @@
     { "src": "src/index.html", "use": "@vercel/static" }
   ],
   "routes": [
-    { "src": "/(.*)", "dest": "src/index.html" }
+    { "src": "/(.*)", "dest": "/src/index.html" }
+  ],
+  "rewrites": [
+    { "source": "/css/(.*)", "destination": "/src/css/$1" },
+    { "source": "/img/(.*)", "destination": "/src/img/$1" }
   ]
-  
 }
