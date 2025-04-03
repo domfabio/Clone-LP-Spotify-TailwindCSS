@@ -4,10 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "tailwind:watch": "npx @tailwindcss/cli -i ./src/css/input.css -o ./src/css/output.css --watch"
+    "dev": "npx @tailwindcss/cli -i ./src/css/input.css -o ./src/css/output.css --watch"
   },
   "keywords": [],
-  "author": "",
+  "author": "Fábio Domingos",
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {
