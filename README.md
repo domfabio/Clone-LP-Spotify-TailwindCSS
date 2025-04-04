@@ -11,7 +11,7 @@ Este projeto é um clone da interface do Spotify, desenvolvido com Tailwind CSS 
 - Layout responsivo inspirado na interface do Spotify
 - Cores e estilos fieis ao design original
 
-## Instalação
+## Como Rodar o Projeto
 1. Clone o repositório:
    ```sh
    git clone https://github.com/domfabio/Clone-LP-Spotify-TailwindCSS.git
