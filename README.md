@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://img.shields.io/static/v1?label=HTML&message=linguagem&color=orange&style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/static/v1?label=Tailwind&message=CSS&color=blue&style=for-the-badge&logo=tailwindcss"/>
+<img src="https://img.shields.io/static/v1?label=Tailwind&message=CSS&color=1DA9BB&style=for-the-badge&logo=tailwindcss"/>
 <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </div>
 
