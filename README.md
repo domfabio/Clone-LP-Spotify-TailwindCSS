@@ -14,7 +14,7 @@ Este projeto foi desenvolvido no curso **Tailwind CSS do Básico ao Avançado + 
 ### 🚀 UI e Deploy
 <div align="center">
 <p >
-  <img src="./src/img/screen.webp" width="380px" alt="Captura de tela do projeto" style="border: none;">
+  <img src="./src/img/screen.webp" width="430px" alt="Captura de tela do projeto" style="border: none;">
 </p>
 
 [→ Ver Projeto On-line 🔗](https://clone-lp-spotify-tailwind-css.vercel.app/)
@@ -28,7 +28,9 @@ Este projeto foi desenvolvido no curso **Tailwind CSS do Básico ao Avançado + 
 ### 📌 Pré-requisitos
 Antes de prosseguir com a configuração, certifique-se de ter todos os pré-requisitos instalados corretamente para evitar erros durante a instalação e execução do projeto.
 
-> Git 2.4+  |  Node.js 12+  |  VS Code  |  Live Server
+> *Git 2.4+*  |  *Node.js 12+*  |  *VS Code*  |  *Live Server*
+
+<br>
 
 ### ⚙️ Configurando o Projeto
 
@@ -61,6 +63,5 @@ Clique com o botão direito no `index.html` e selecione **"Open with Live Server
 
 ---
 
-## 📜 Licença
 Este projeto é distribuído sob a licença MIT. Veja `LICENSE` para mais detalhes.
 
