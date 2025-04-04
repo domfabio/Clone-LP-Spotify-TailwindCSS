@@ -1,15 +1,15 @@
-# Spotify Clone com Tailwind CSS 4
+<div align="center">
+<img src="https://img.shields.io/static/v1?label=HTML&message=linguagem&color=orange&style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/static/v1?label=Tailwind&message=CSS&color=blue&style=for-the-badge&logo=tailwindcss"/>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
+</div>
+
+<h1 align="center">Spotify Clone com Tailwind CSS 4</h1>
 
 ### Descrição
 Este projeto é um clone da interface do Spotify, desenvolvido com Tailwind CSS 4. O objetivo é recriar a aparência e a usabilidade da plataforma de streaming de músicas utilizando as funcionalidades mais recentes do Tailwind CSS.
 
-### Tecnologias Utilizadas
-- **Tailwind CSS 4** - Para estilização eficiente e modular
-- **HTML** - Estrutura básica da aplicação
 
-### Funcionalidades
-- Layout responsivo inspirado na interface do Spotify
-- Cores e estilos fieis ao design original
 
 ## Como Configurar o Projeto no VS Code
 
