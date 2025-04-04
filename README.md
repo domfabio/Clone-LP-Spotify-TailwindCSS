@@ -19,11 +19,6 @@ Abra o **VS Code**, pressione `Ctrl + Shift + P`, digite **"Git Clone"** e cole 
 https://github.com/domfabio/Clone-LP-Spotify-TailwindCSS.git
 ```
 
-Ou, pelo terminal integrado (`Ctrl + J`):
-```sh
-git clone https://github.com/domfabio/Clone-LP-Spotify-TailwindCSS.git
-cd Clone-LP-Spotify-TailwindCSS
-```
 ### 2 - Instalar Dependências
 Se o projeto utilizar pacotes do Node.js, instale as dependências:
 ```sh
