@@ -23,7 +23,7 @@ Este projeto foi desenvolvido no curso **Tailwind CSS do Básico ao Avançado + 
 
 ---
 
-## Como Configurar o Projeto no VS Code:
+## ▶️ Como Configurar o Projeto no VS Code:
 
 ### 📌 Pré-requisitos
 Antes de prosseguir com a configuração, certifique-se de ter todos os pré-requisitos instalados corretamente para evitar erros durante a instalação e execução do projeto:
