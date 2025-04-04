@@ -1,46 +1,44 @@
 # Spotify Clone com Tailwind CSS 4
 
-## Descrição
+### Descrição
 Este projeto é um clone da interface do Spotify, desenvolvido com Tailwind CSS 4. O objetivo é recriar a aparência e a usabilidade da plataforma de streaming de músicas utilizando as funcionalidades mais recentes do Tailwind CSS.
 
-## Tecnologias Utilizadas
+### Tecnologias Utilizadas
 - **Tailwind CSS 4** - Para estilização eficiente e modular
 - **HTML** - Estrutura básica da aplicação
 
-## Funcionalidades
+### Funcionalidades
 - Layout responsivo inspirado na interface do Spotify
 - Cores e estilos fieis ao design original
 
-## Como Rodar o Projeto
-1. Clone o repositório:
-   ```sh
-   git clone https://github.com/domfabio/Clone-LP-Spotify-TailwindCSS.git
-   ```
-2. Acesse a pasta do projeto:
-   ```sh
-   cd Clone-LP-Spotify-TailwindCSS
-   ```
-3. Instale as dependências:
-   ```sh
-   npm install
-   ```
-4. Inicie o servidor de desenvolvimento:
-   ```sh
-   npm run dev
-   ```
+## Como Configurar o Projeto no VS Code
 
-## Estrutura do Projeto
+### 1 - Clonar o Repositório
+Abra o **VS Code**, pressione `Ctrl + Shift + P`, digite **"Git Clone"** e cole o link do repositório:
+```sh
+https://github.com/domfabio/Clone-LP-Spotify-TailwindCSS.git
 ```
-Clone-LP-Spotify-TailwindCSS/
-|-- public/             # Assets públicos
-|-- src/
-|   |-- components/     # Componentes reutilizáveis
-|   |-- pages/          # Páginas principais
-|   |-- styles/         # Configuração do Tailwind CSS
-|-- index.html          # Arquivo principal
-|-- tailwind.config.js  # Configuração do Tailwind CSS
-|-- package.json        # Dependências do projeto
+
+Ou, pelo terminal integrado (`Ctrl + J`):
+```sh
+git clone https://github.com/domfabio/Clone-LP-Spotify-TailwindCSS.git
+cd Clone-LP-Spotify-TailwindCSS
 ```
+### 2 - Instalar Dependências
+Se o projeto utilizar pacotes do Node.js, instale as dependências:
+```sh
+npm install
+```
+
+### 3 - Inicie o servidor de desenvolvimento:
+```sh
+npm run dev
+```
+
+### 4 - Rodar o Projeto
+Usando a extensão **Live Server**:
+Clique com o botão direito no `index.html` e selecione **"Open with Live Server"**.
+
 
 ## Contribuição
 Se deseja contribuir, siga os passos:
