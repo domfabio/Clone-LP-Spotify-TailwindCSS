@@ -27,7 +27,7 @@ npm install
 npm run dev
 ```
 4. Rodar o Projeto
-Usando a extensão **Live Server**:
+Usando a extensão **Live Server**:<br>
 Clique com o botão direito no `index.html` e selecione **"Open with Live Server"**.
 
 
