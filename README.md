@@ -13,24 +13,20 @@ Este projeto é um clone da interface do Spotify, desenvolvido com Tailwind CSS 
 
 ## Como Configurar o Projeto no VS Code
 
-### 1 - Clonar o Repositório
+1. Clone este repositório:
 Abra o **VS Code**, pressione `Ctrl + Shift + P`, digite **"Git Clone"** e cole o link do repositório:
 ```sh
 https://github.com/domfabio/Clone-LP-Spotify-TailwindCSS.git
 ```
-
-### 2 - Instalar Dependências
-Se o projeto utilizar pacotes do Node.js, instale as dependências:
+2. Instalar Dependências:
 ```sh
 npm install
 ```
-
-### 3 - Inicie o servidor de desenvolvimento:
+3. Inicie o servidor de desenvolvimento:
 ```sh
 npm run dev
 ```
-
-### 4 - Rodar o Projeto
+4. Rodar o Projeto
 Usando a extensão **Live Server**:
 Clique com o botão direito no `index.html` e selecione **"Open with Live Server"**.
 
