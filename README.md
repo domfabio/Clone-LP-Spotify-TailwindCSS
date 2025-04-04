@@ -28,7 +28,7 @@ Este projeto foi desenvolvido no curso **Tailwind CSS do Básico ao Avançado + 
 ### 📌 Pré-requisitos
 Antes de prosseguir com a configuração, certifique-se de ter todos os pré-requisitos instalados corretamente para evitar erros durante a instalação e execução do projeto:
 
-`Git 2.4+` `Node.js 12+` `VS Code` `Live Server`
+`Git 2.4+` `Node.js 12+` `VS Code` `Live Server` `Tailwind CSS IntelliSense`
 
 
 ### ⚙️ Configurando o Projeto
@@ -62,5 +62,5 @@ Clique com o botão direito no `index.html` e selecione **"Open with Live Server
 
 ---
 
-Este projeto é distribuído sob a [Licença MIT](https://opensource.org/licenses/MIT). Veja o arquivo `LICENSE` para mais detalhes.
+Este projeto é distribuído sob a [Licença MIT](https://opensource.org/licenses/MIT). <br>Veja a documentação para mais detalhes.
 
