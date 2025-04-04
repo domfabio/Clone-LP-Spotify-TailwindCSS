@@ -64,5 +64,5 @@ Clique com o botão direito no `index.html` e selecione **"Open with Live Server
 
 ---
 
-Este projeto é distribuído sob a [Licença MIT](https://opensource.org/licenses/MIT). <br>Veja a documentação para mais detalhes.
+Este projeto é distribuído sob a [Open Source License - MIT](https://opensource.org/licenses/MIT). <br>Veja a documentação para mais detalhes.
 
