@@ -30,7 +30,7 @@ Este projeto foi desenvolvido no curso **Tailwind CSS do Básico ao Avançado + 
 ### 📌 Pré-requisitos
 Antes de prosseguir com a configuração, certifique-se de ter todos os pré-requisitos instalados corretamente para evitar erros durante a instalação e execução do projeto:
 
-`Git 2.4+` `Node.js 12+` `VS Code` `Live Server` `Tailwind CSS IntelliSense`
+`Git 2.4+` `Node.js 12+` `Live Server` `Tailwind CSS IntelliSense`
 
 
 ### ⚙️ Configurando o Projeto
